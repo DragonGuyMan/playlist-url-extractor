@@ -8,9 +8,6 @@ import java.util.ArrayList;
 
 /**
  * Contains methods used for file operations.
- * 
- * @author austin
- *
  */
 public class FileManipulator {
 	
@@ -35,7 +32,7 @@ public class FileManipulator {
 	/**
 	 * Writes strings in an array list to a file. Each string is put on its own line.
 	 * 
-	 * @param stringList List of strings to put on seperate lines
+	 * @param stringList List of strings to put on separate lines
 	 * @param pathname Path of file to write to
 	 * @throws IOException For problems with I/O
 	 */
