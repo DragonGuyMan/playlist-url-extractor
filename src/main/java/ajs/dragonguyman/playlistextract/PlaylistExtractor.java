@@ -5,10 +5,6 @@ import java.sql.*;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-/**
- * Meant to extract URLs from a locally made NewPipe playlist and put them in a text file for use
- * with youtube-dl.
- */
 public class PlaylistExtractor {
 	
 	/**
